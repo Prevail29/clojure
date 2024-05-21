@@ -1,0 +1,2 @@
+1. In order to evalute lines, need to connect via deps.end
+2. Evalute lines with CTRL + ENTER
